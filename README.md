@@ -10,4 +10,4 @@
 - HTML
 - CSS
 - React
--  Javascriop
+-  Javascript
